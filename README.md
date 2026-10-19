@@ -21,7 +21,7 @@ The dashboard analyzes over 479K data *job postings* and presents them in an int
 The main page gives a quick view of the data job market, showing total job count, median salaries and job rating. It also covers hiring trends by quarter, the most in-demand roles and a comparison of hourly vs yearly pay.
 
 ## Page 2: Job Title Drill Through
-![Data Jobs Dashboard 1](/images/page%202.png)
+[Data Jobs Dashboard 1](/images/page%202.png)
 This page lets you click into any job title and see the details behind it. It shows where those jobs were posted or applied through (such as LinkedIn or other platforms), along with the hourly and yearly salary for that role.
 
 ## Conclusion
