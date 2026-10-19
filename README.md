@@ -1,7 +1,7 @@
 # Data Jobs Dashboard w/ Powerbi
 ![Data Jobs Dashboard 1](/images/page%201.png)
 # Introduction
-Hi, I’m **Abejide Ayobami**. I’m a Computer Science and Mathematics student at Obafemi Awolowo University (OAU), Nigeria, and I’m learning data analytics by building real projects.
+Hi, I’m **Abejide Ayobami**. I’m a **Computer Science and Mathematics student** at Obafemi Awolowo University (OAU), Nigeria, and I’m learning data analytics by building real projects.
 
 I built this dashboard to understand the data job market: which roles are most in demand, what they pay, and how hiring changes over time. It also gave me hands-on practice with Power BI, from preparing and modelling data to designing visuals that tell a clear story. What started as a simple one-page dashboard has grown into a more advanced report as my skills improved.
 
