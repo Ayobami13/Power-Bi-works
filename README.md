@@ -1,5 +1,5 @@
 # Data Jobs Dashboard w/ Powerbi
-![Data Jobs Dashboard 1](/images/page%201.png)
+![Data Jobs Dashboard 1](/Images/page%201.png)
 # Introduction
 Hi, I’m **Abejide Ayobami**. I’m a **Computer Science and Mathematics student** at Obafemi Awolowo University (OAU), Nigeria, and I’m learning data analytics by building real projects.
 
@@ -17,7 +17,7 @@ The dashboard analyzes over 479K data *job postings* and presents them in an int
 
 # Dashboard Overview
 ## Page 1: High Level Market View
-![Data Jobs Dashboard 1](/images/page%201.png)
+![Data Jobs Dashboard 1](/Images/page%201.png)
 The main page gives a quick view of the data job market, showing total job count, median salaries and job rating. It also covers hiring trends by quarter, the most in-demand roles and a comparison of hourly vs yearly pay.
 
 ## Page 2: Job Title Drill Through
