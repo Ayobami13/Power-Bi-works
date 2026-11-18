@@ -1,10 +1,8 @@
-
 # My Power BI Dashboard Portfolio
 This repository is a collection of my Power BI dashboards and projects. Each dashboard has its own folder with a dedicated README file that explains what the project is about, the pages it contains, the skills I used and what I learnt while building it. I'm adding new dashboards as I keep learning and improving, so check back for updates.
 # Featured Dashboards
 Explore the dashboards below. Each has its own dedicated readme with more details on the build process and specifics.
 ## 📊 Data Jobs Dashboard
-=======
 # Data Jobs Dashboard w/ Powerbi
 ![Data Jobs Dashboard 1](/Images/page%201.png)
 # Introduction
@@ -23,4 +21,3 @@ Hi, I’m **Abejide Ayobami**. I’m a **Computer Science and Mathematics studen
 * 🔘 Buttons for Page Navigation
 * ➡️ Drill-Through Functionality (page and button)
 [📁 **View Project 1 README**](data_jobs_v1/README.md)
-=======
